@@ -1,0 +1,61 @@
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\bin\Debug\net6.0\appsettings.Development.json
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\bin\Debug\net6.0\appsettings.json
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\bin\Debug\net6.0\WebAppMVCDeploy.staticwebassets.runtime.json
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\bin\Debug\net6.0\WebAppMVCDeploy.exe
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\bin\Debug\net6.0\WebAppMVCDeploy.deps.json
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\bin\Debug\net6.0\WebAppMVCDeploy.runtimeconfig.json
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\bin\Debug\net6.0\WebAppMVCDeploy.dll
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\bin\Debug\net6.0\WebAppMVCDeploy.pdb
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.AssemblyInfoInputs.cache
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.AssemblyInfo.cs
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.csproj.CoreCompileInputs.cache
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.MvcApplicationPartsAssemblyInfo.cache
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.RazorAssemblyInfo.cache
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.RazorAssemblyInfo.cs
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\staticwebassets.build.json
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\staticwebassets.development.json
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\staticwebassets\msbuild.WebAppMVCDeploy.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAppMVCDeploy.props
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAppMVCDeploy.props
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAppMVCDeploy.props
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\scopedcss\bundle\WebAppMVCDeploy.styles.css
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\scopedcss\projectbundle\WebAppMVCDeploy.bundle.scp.css
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.dll
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\refint\WebAppMVCDeploy.dll
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.pdb
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.genruntimeconfig.cache
+D:\Phase 4\Practise Projects\WebAppMVCDeploy\obj\Debug\net6.0\ref\WebAppMVCDeploy.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\bin\Debug\net6.0\appsettings.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\bin\Debug\net6.0\WebAppMVCDeploy.staticwebassets.runtime.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\bin\Debug\net6.0\WebAppMVCDeploy.exe
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\bin\Debug\net6.0\WebAppMVCDeploy.deps.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\bin\Debug\net6.0\WebAppMVCDeploy.runtimeconfig.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\bin\Debug\net6.0\WebAppMVCDeploy.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\bin\Debug\net6.0\WebAppMVCDeploy.pdb
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.AssemblyInfoInputs.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.AssemblyInfo.cs
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.RazorAssemblyInfo.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.RazorAssemblyInfo.cs
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.sourcelink.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\staticwebassets\msbuild.WebAppMVCDeploy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAppMVCDeploy.props
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAppMVCDeploy.props
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAppMVCDeploy.props
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\scopedcss\bundle\WebAppMVCDeploy.styles.css
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\scopedcss\projectbundle\WebAppMVCDeploy.bundle.scp.css
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\refint\WebAppMVCDeploy.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.pdb
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\WebAppMVCDeploy.genruntimeconfig.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Debug\net6.0\ref\WebAppMVCDeploy.dll

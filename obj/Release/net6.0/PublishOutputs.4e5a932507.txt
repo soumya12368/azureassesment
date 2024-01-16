@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Release\net6.0\PubTmp\Out\WebAppMVCDeploy.exe
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Release\net6.0\PubTmp\Out\WebAppMVCDeploy.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Release\net6.0\PubTmp\Out\WebAppMVCDeploy.deps.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Release\net6.0\PubTmp\Out\WebAppMVCDeploy.runtimeconfig.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project5\WebAppMVCDeploy\WebAppMVCDeploy\obj\Release\net6.0\PubTmp\Out\WebAppMVCDeploy.pdb
